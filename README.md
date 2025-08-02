@@ -5,7 +5,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About Me 🧑‍💻 </h2>
 </a>
-  I am a cyberspace defense warrant officer in the US Army. 
+  I am a Cyberspace Defense Warrant Officer in the US Army. 
   <a href=mailto:메 일 주 소> 
           </div><br>
     <div align= "center">  </div> 
